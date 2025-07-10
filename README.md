@@ -2,6 +2,9 @@
 
 -Create React App
 -Configered Tailwind.
+-useRef
+-Deploying to prod
+-Firebase Setup
 
 #   Features
 -Browser
